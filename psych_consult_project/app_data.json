@@ -1,0 +1,2284 @@
+[
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Dkz8HyZ8v1VOATii0j7He2$0TpVVBzIV/v/WUXL4ql4KHGGqNGwFqStrsC6h26sWBU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "2114955004",
+    "first_name": "shohan",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-14T00:39:54.683Z",
+    "email": "2114955004@uits.edu.bd",
+    "name": "",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$32K1sVT6C85djfqP1D37Vo$FQJItSiAM9+/SKMbj7Uel/KJfuXxB2vVUzpk5XmCbBM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "renare2349",
+    "first_name": "test",
+    "last_name": "user1",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T00:42:04.787Z",
+    "email": "renare2349@simerm.com",
+    "name": "",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$PMHhN6Nn2GMXuOLAA6JiAY$wn4xXE8znTTtH5Lg8v0bM5sTXDy78jf4gU2PGLk1fe0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "vewoni2550",
+    "first_name": "test",
+    "last_name": "user2",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-14T00:47:22.225Z",
+    "email": "vewoni2550@simerm.com",
+    "name": "",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$LUtzhSN8BgZORRZ8XShQ5D$5M/oIUo3PRk9E9JbdgIaOEJ5Lp2DYxLl2wKakxABxSc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "joysd.1005",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-14T18:40:30Z",
+    "email": "joysd.1005@fec.edu.bd",
+    "name": "Joy",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$LdhYUMfxkDhsu71gIDbllM$MMLAilQ/QDt5KL8nCwSBDaNChFP/KhWwqaFGiadv2eY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "joysutradharaj",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T18:41:43.508Z",
+    "email": "joysutradharaj@gmail.com",
+    "name": "JoySd",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$ZrBFf0mF2Q4QOmo8NprtKo$u18GqS4vyeHDATCZo7/fuJu8lm/WMoLhyWVbNtmUojs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "wemihe3719",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T19:15:49.664Z",
+    "email": "wemihe3719@endibit.com",
+    "name": "testuser11",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$XzEzx46ecx0DR1ZgNcflh2$yHlgf7HqWJF2zA6f42mOGrJGsFfAw8+3oGJZ1/n3hps=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "volipaf316",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T19:16:21.708Z",
+    "email": "volipaf316@simerm.com",
+    "name": "JoySd",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$s9DjIwJbuJmR0xZrXViqtj$e6lcLdls6/HeXGMdjXf1/ji6dar5qrFF+kmBDXgcbwY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "yisoti7059",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T19:22:07.924Z",
+    "email": "yisoti7059@coderdir.com",
+    "name": "testuser12",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$OZvCVbSyN3Nj6UkTiipr65$nr5RUlcxnXhn+dRXS3KMNXgqKLbX11oMVQ1AX+jlvoo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "saxece2296",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T19:30:21.347Z",
+    "email": "saxece2296@endibit.com",
+    "name": "testuser13",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$mR74gQiuqg0nGFU0aMikQg$20RaK+G5lcQo6DoRPBDELBCjLsj5DTOHUP6i1HhGz6g=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "didaw73670",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T19:31:00.636Z",
+    "email": "didaw73670@pacfut.com",
+    "name": "JoySd",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$G6ZYSnC6gXStnHSSzcRdeh$yIMe/bLrgbfeNAVsJaNTkvnivVYDq8TOCJi472f2vLo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pacev59681",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T20:08:01.833Z",
+    "email": "pacev59681@coderdir.com",
+    "name": "testuser14",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$TL11CcPSqkDwf3ThmP2qM0$XpsMO37QbXeapZ75r6DEynVEuGj402RzKQBBO/0wsdU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "vetacoj612",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T20:26:36.673Z",
+    "email": "vetacoj612@endibit.com",
+    "name": "testuser15",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$lXH9rq6EmIFN1br5NoECoa$Tj5KmWTCuBgpd82l/Jdj9ba8IfXeO29q/9FMrwBVBwE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "teyipot510",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T20:32:15.418Z",
+    "email": "teyipot510@endibit.com",
+    "name": "testuser16",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Bv4PU61OJCeqYbKU1JgBJD$9yM4wVrCFbByT5QKIyrGTho/IcCrxcy0GHWwVc4RWoc=",
+    "last_login": "2025-07-18T21:12:33.192Z",
+    "is_superuser": true,
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-07-14T21:06:43.721Z",
+    "email": "shohan@gmail.com",
+    "name": "",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$6ucPV8QDOAmLE7SEMc2YE1$Vtqtxzc8yoSF9+DdVp8F4i6j9/y7Me9yPKOw/BCk71A=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "cejati4628",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T21:22:29.066Z",
+    "email": "cejati4628@coderdir.com",
+    "name": "rakin",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "!HLaA6TYggtOjF0ezAQfDXqW95elhUke8DNcf77IQ",
+    "last_login": "2025-07-14T21:27:10.754Z",
+    "is_superuser": false,
+    "username": "q-bit",
+    "first_name": "Q-Bit",
+    "last_name": "Coders",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-14T21:27:10.728Z",
+    "email": "qbitcoders3@gmail.com",
+    "name": "",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$JhkN3ZLQ9FXy2rYnuDUZqh$G9peGZBIA8BO1k7PYKrTWlgFylUwL4LhxAPUhD7OsaU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "jetoti8870",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T21:28:40.393Z",
+    "email": "jetoti8870@simerm.com",
+    "name": "rakin1",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$wziU1gCvkNKcq2XwiRuvmf$UQLBV/MzaYPvHTNbXsVc9D75XjBC5fYC7ZV/2FtQpwE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "wiceg61044",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-14T21:52:53.468Z",
+    "email": "wiceg61044@pacfut.com",
+    "name": "JoySd",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$j26Bcdlft1ULtL26noMxuT$Usm/skYArlwp25rzEO7Zr4CRorzhok4hN4UibWGZ9ak=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "locoy63933",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T22:01:09.916Z",
+    "email": "locoy63933@simerm.com",
+    "name": "JoySd",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$aZL3MUZTQ12sve8M0NaqpD$/AgQrYdgqkqWFpVuzI7ZxHCcJGhC26Vu90BTmUMMWI4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "mixig91304",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-14T22:04:31.558Z",
+    "email": "mixig91304@simerm.com",
+    "name": "JoySd",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$6WYgy0Cm8uUJuPVrTsdU4Z$0fASrucjnHRzraDIUJfTL69bi6SpIJWEhV+lvokNXlE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "fofehi2608",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-14T22:12:14.367Z",
+    "email": "fofehi2608@pacfut.com",
+    "name": "JoySd",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$CL5tmpenkxe1Ot2KlrxF9u$2keOe+COwHZxJxKOdu0QFv6w38lGIp2HqNsW5/lg3k4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "pareven856",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-14T22:39:04.913Z",
+    "email": "pareven856@simerm.com",
+    "name": "JoySutradhar",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$hVzjjxOWuh5rZJJCCvIUUe$bB+Lna/WRPAvOmliadyntY2cji7iRQCOj65MlaNIaDc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "bipoca9785",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-16T18:36:17.155Z",
+    "email": "bipoca9785@simerm.com",
+    "name": "JoySdv",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$WFNHXDrfpxp1f2kQbe0SRu$VXAIv3MZ3FGnerrThXeB/90cIfudp5xOWxzp1xEVez0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "larodav320",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-16T23:08:07.042Z",
+    "email": "larodav320@endibit.com",
+    "name": "rasel vai",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Hhfz4XCRSMq6RuRQCJEDV6$qBjGHmrZ6UxxPdYVruYvEdbc0w/WohxEbDLguoDSQGI=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "folod68203",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-16T23:53:33.604Z",
+    "email": "folod68203@endibit.com",
+    "name": "jfksdjflsdjl",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$8XV7GsySAx7wIdtM3qP9e5$ibWxbJHHJbcPh3WbbyEeUmF9N1haHE+splfIJAty+FE=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "sewaca4603",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-17T19:18:50.522Z",
+    "email": "sewaca4603@jxbav.com",
+    "name": "Joy SD",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$W8kZ2NCQlAFvud1omO898b$sYzsvpkqEJHHI03Pvva7+0B4FYFnrg1rm6Xz83Sv3RU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "fevel54772",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-19T19:14:45.227Z",
+    "email": "fevel54772@hadvar.com",
+    "name": "Joy SD",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$YrSZGdyMyPsdM0MbKiOooR$M9eyGLgAnrmY0lOkDbRsoVOWbhq4laEcWQSXqkjIh3c=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "anjulooki",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-22T19:30:18.196Z",
+    "email": "anjulooki@gmail.com",
+    "name": "Shohan",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Ijd1yEXUCpUm06hANl6kOy$OZ3AkROZyc1M832kYM7m9paZLnzvJa3vAitTZdkXnwY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "golofe5993",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-22T21:12:57.784Z",
+    "email": "golofe5993@modirosa.com",
+    "name": "user",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "!QY6H5GjyD9pDvG5yZ9r4YSY3cetj2bD6Ar8Uv9e0",
+    "last_login": "2025-07-22T21:45:03.508Z",
+    "is_superuser": false,
+    "username": "alpha",
+    "first_name": "Alpha",
+    "last_name": "Bytes",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-22T21:45:03.451Z",
+    "email": "alphabytes.gpt@gmail.com",
+    "name": "",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Q20WaapaCNbPVxgxrKU0gW$fWzS1rpKwXzZlED0W1HGjnrz2ws4gRYW8tGZUJ4LLeQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": false,
+    "date_joined": "2025-07-22T21:52:19.496Z",
+    "email": "admin@gmail.com",
+    "name": "test",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$j7YR0M7avREhLgzsx9N72e$wIsA16yHnpSWsL9ZsKNc05bqjEBkr4pHJJ3wrKzFddU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "losifim354",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-22T21:53:38.085Z",
+    "email": "losifim354@modirosa.com",
+    "name": "test",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$IWipjb3SH52QVV61qrg60T$NPfZ5SRJ7V4mq6GN0YUfU7hxg+3KxB861b3GHezaIFY=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "hegepos292",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-22T22:04:55.397Z",
+    "email": "hegepos292@forexru.com",
+    "name": "TYes",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$P5aGOKiZ3ybsJZkdlk9Ip1$Rdfv2KhmneHnINbTGihMB6GOa7quGTeu6xIAfywTXv0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "lapid98041",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-22T22:08:58.522Z",
+    "email": "lapid98041@kissgy.com",
+    "name": "lapid",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$tAWrZiiN1hCIlegblnp8Wv$HqN6+iyBOJUnRA/HLFwN3xLWXX6o+s8TAK/t6J1ghJc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "civapi5237",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-22T22:11:55.152Z",
+    "email": "civapi5237@forexru.com",
+    "name": "Sohan",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$SK2Uyt6YK3Tl8yT9tlnosE$JbyOQVNMlnQE0MU4M2n9E2Qyosfgr51s6J4mTIRDPtA=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "mdmnb435",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-22T22:14:18.571Z",
+    "email": "mdmnb435@gmail.com",
+    "name": "Nobi",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "!MnSoQ9PGiypWrxmGs5NiuNp8sVzKiCwIrLRUFY0E",
+    "last_login": "2025-07-24T00:35:52.025Z",
+    "is_superuser": false,
+    "username": "shohan",
+    "first_name": "Shohan",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-24T00:35:51.985Z",
+    "email": "shohanul1081@gmail.com",
+    "name": "",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$UI9dyZW5DcJCxHPLW7SYsl$/oBjFuLVcK9o89PcA1Am8e2xJGg4Rf4BR94EAPfjht4=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "gapoti6172",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-25T18:24:12.328Z",
+    "email": "gapoti6172@coursora.com",
+    "name": "Rakib Chy",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$69LCw09YS118JXllfFj5q1$QLtvBxTPeo473jBgP6PKGZIdtXgb9gGbEsDisFC362I=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "shohanulislam19892",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-25T19:10:37.477Z",
+    "email": "shohanulislam19892@gmail.com",
+    "name": "Shohanul Islam",
+    "phone": "",
+    "profile_image": "",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "subscriptions.subscriptionplan",
+  "pk": 1,
+  "fields": {
+    "name": "basic",
+    "description": "sohan vai \r\nhello",
+    "features": "sohan vai vao\\n\r\nsohan vai haisen",
+    "recommended": false,
+    "price": "9.99",
+    "duration_days": 7,
+    "stripe_price_id": "price_1RcXalRangQBXdnRGjG8wjw2",
+    "created_at": "2025-07-15T22:14:48.291Z",
+    "updated_at": "2025-07-25T20:07:54.763Z"
+  }
+},
+{
+  "model": "subscriptions.subscriptionplan",
+  "pk": 2,
+  "fields": {
+    "name": "premium",
+    "description": "djflsdjfkjsd\r\nffjldsjflksdjf\r\nshohan",
+    "features": "",
+    "recommended": false,
+    "price": "19.99",
+    "duration_days": 15,
+    "stripe_price_id": "price_1RcYRnRangQBXdnRtZkF3S0N",
+    "created_at": "2025-07-15T22:37:50.889Z",
+    "updated_at": "2025-07-15T22:37:50.890Z"
+  }
+},
+{
+  "model": "subscriptions.subscriptionplan",
+  "pk": 3,
+  "fields": {
+    "name": "pro",
+    "description": "jfkldsjfoj\r\nskfjsdj\r\njoy bangla",
+    "features": "hello joy vai\\n how are you\\n hope you are well",
+    "recommended": true,
+    "price": "29.99",
+    "duration_days": 30,
+    "stripe_price_id": "price_1RcXgJRangQBXdnRvuJWoBvh",
+    "created_at": "2025-07-15T22:39:22.011Z",
+    "updated_at": "2025-07-16T23:03:13.710Z"
+  }
+},
+{
+  "model": "workbook.category",
+  "pk": 1,
+  "fields": {
+    "name": "Dream"
+  }
+},
+{
+  "model": "workbook.category",
+  "pk": 2,
+  "fields": {
+    "name": "sleep"
+  }
+},
+{
+  "model": "workbook.workbook",
+  "pk": 1,
+  "fields": {
+    "title": "Mental health",
+    "description": null,
+    "banner": "workbooks/banners/Screenshot_2025-07-19_052733.png",
+    "pdf_file": "workbooks/pdfs/mental_health_pdf_1.pdf",
+    "category": 1,
+    "created_at": "2025-07-18T23:25:49Z"
+  }
+},
+{
+  "model": "workbook.workbook",
+  "pk": 2,
+  "fields": {
+    "title": "The_little_book_of_mental_health_-_version_6",
+    "description": "demo description",
+    "banner": "workbooks/banners/Screenshot_2025-07-21_034302.png",
+    "pdf_file": "workbooks/pdfs/The_little_book_of_mental_health_-_version_6.pdf",
+    "category": 1,
+    "created_at": "2025-07-20T21:48:58Z"
+  }
+},
+{
+  "model": "workbook.workbook",
+  "pk": 3,
+  "fields": {
+    "title": "How-to-sleep-better",
+    "description": "Hello how are? i am in under water.",
+    "banner": "workbooks/banners/Screenshot_2025-07-21_043616.png",
+    "pdf_file": "workbooks/pdfs/MHF-how-to-sleep-better.pdf",
+    "category": 2,
+    "created_at": "2025-07-20T22:36:25Z"
+  }
+},
+{
+  "model": "workbook.favoriteworkbook",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "sewaca4603@jxbav.com"
+    ],
+    "created_at": "2025-07-18T23:47:42.993Z",
+    "updated_at": "2025-07-18T23:47:42.993Z",
+    "workbooks": [
+      1
+    ]
+  }
+},
+{
+  "model": "workbook.favoriteworkbook",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "created_at": "2025-07-20T20:54:48.272Z",
+    "updated_at": "2025-07-20T20:54:48.272Z",
+    "workbooks": [
+      1
+    ]
+  }
+},
+{
+  "model": "workbook.favoriteworkbook",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "fevel54772@hadvar.com"
+    ],
+    "created_at": "2025-07-21T00:19:42.470Z",
+    "updated_at": "2025-07-21T00:19:42.470Z",
+    "workbooks": []
+  }
+},
+{
+  "model": "workbook.favoriteworkbook",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "civapi5237@forexru.com"
+    ],
+    "created_at": "2025-07-22T22:16:59.659Z",
+    "updated_at": "2025-07-22T22:16:59.659Z",
+    "workbooks": []
+  }
+},
+{
+  "model": "workbook.favoriteworkbook",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "created_at": "2025-07-23T21:45:21.178Z",
+    "updated_at": "2025-07-23T21:45:21.178Z",
+    "workbooks": []
+  }
+},
+{
+  "model": "workbook.favoriteworkbook",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "shohanulislam19892@gmail.com"
+    ],
+    "created_at": "2025-07-25T20:05:25.702Z",
+    "updated_at": "2025-07-25T20:05:25.702Z",
+    "workbooks": []
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "task_name": "string",
+    "time": "19:42:17",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-23",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-22T19:40:58.849Z",
+    "updated_at": "2025-07-22T19:40:58.849Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "task_name": "making cake",
+    "time": "19:45:17",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-23",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-22T19:43:45.013Z",
+    "updated_at": "2025-07-22T19:43:45.013Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "task_name": "5-minute test",
+    "time": "01:54:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-23",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-22T19:51:49.707Z",
+    "updated_at": "2025-07-22T19:51:49.707Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "task_name": "Breathing task from emothrive",
+    "time": "04:18:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-23",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-22T22:15:40.343Z",
+    "updated_at": "2025-07-22T22:15:40.343Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "task_name": "Breathing task from emothrive",
+    "time": "04:31:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-23",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-22T22:30:02.924Z",
+    "updated_at": "2025-07-22T22:30:02.924Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "gapoti6172@coursora.com"
+    ],
+    "task_name": "breathing",
+    "time": "00:35:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-26",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-25T18:32:37.216Z",
+    "updated_at": "2025-07-25T18:32:37.216Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "gapoti6172@coursora.com"
+    ],
+    "task_name": "breathing",
+    "time": "00:45:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-26",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-25T18:43:25.151Z",
+    "updated_at": "2025-07-25T18:43:25.151Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 8,
+  "fields": {
+    "user": [
+      "gapoti6172@coursora.com"
+    ],
+    "task_name": "sleeping",
+    "time": "00:51:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-26",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-25T18:49:38.864Z",
+    "updated_at": "2025-07-25T18:49:38.864Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 9,
+  "fields": {
+    "user": [
+      "gapoti6172@coursora.com"
+    ],
+    "task_name": "swimming",
+    "time": "01:01:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-26",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-25T18:59:35.540Z",
+    "updated_at": "2025-07-25T18:59:35.540Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 10,
+  "fields": {
+    "user": [
+      "shohanulislam19892@gmail.com"
+    ],
+    "task_name": "Affirmation",
+    "time": "01:15:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-26",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-25T19:11:32.962Z",
+    "updated_at": "2025-07-25T19:11:32.962Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 11,
+  "fields": {
+    "user": [
+      "shohanulislam19892@gmail.com"
+    ],
+    "task_name": "hello",
+    "time": "01:14:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-26",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-25T19:14:12.097Z",
+    "updated_at": "2025-07-25T19:14:12.097Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 12,
+  "fields": {
+    "user": [
+      "shohanulislam19892@gmail.com"
+    ],
+    "task_name": "breathing",
+    "time": "01:50:00",
+    "timezone": "UTC",
+    "repeat_type": "once",
+    "start_date": "2025-07-26",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-25T19:49:22.862Z",
+    "updated_at": "2025-07-25T19:49:22.862Z"
+  }
+},
+{
+  "model": "reminders.reminder",
+  "pk": 13,
+  "fields": {
+    "user": [
+      "shohanulislam19892@gmail.com"
+    ],
+    "task_name": "swimming",
+    "time": "02:03:00",
+    "timezone": "Asia/Dhaka",
+    "repeat_type": "once",
+    "start_date": "2025-07-26",
+    "end_date": null,
+    "is_active": true,
+    "created_at": "2025-07-25T20:02:06.888Z",
+    "updated_at": "2025-07-25T20:02:06.888Z"
+  }
+},
+{
+  "model": "music.music",
+  "pk": 1,
+  "fields": {
+    "title": "Have relax1",
+    "artist": "jvi",
+    "music_file": "music/peace-375599.mp3",
+    "banner": "music_banners/OLGOEQ0.jpg",
+    "category": "instrumental",
+    "uploaded_at": "2025-07-17T20:51:31.660Z"
+  }
+},
+{
+  "model": "music.music",
+  "pk": 2,
+  "fields": {
+    "title": "Have relax2",
+    "artist": "jvi",
+    "music_file": "music/atmosphere-nuit-calme-song-1-324715.mp3",
+    "banner": "music_banners/new148.jpg",
+    "category": "focus",
+    "uploaded_at": "2025-07-17T20:52:32.418Z"
+  }
+},
+{
+  "model": "music.music",
+  "pk": 3,
+  "fields": {
+    "title": "Have a relax3",
+    "artist": "jvi",
+    "music_file": "music/please-calm-my-mind-125566.mp3",
+    "banner": "music_banners/OLS2UL0.jpg",
+    "category": "instrumental",
+    "uploaded_at": "2025-07-17T20:53:06.123Z"
+  }
+},
+{
+  "model": "music.music",
+  "pk": 4,
+  "fields": {
+    "title": "Have a relax4",
+    "artist": "jvi",
+    "music_file": "music/meditation-healing-mental-health-spiritual-music-233534.mp3",
+    "banner": "music_banners/OMHWCX0.jpg",
+    "category": "sleep",
+    "uploaded_at": "2025-07-17T20:53:34.115Z"
+  }
+},
+{
+  "model": "music.favoriteplaylist",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "sewaca4603@jxbav.com"
+    ],
+    "created_at": "2025-07-18T22:59:18.377Z",
+    "updated_at": "2025-07-18T22:59:18.377Z",
+    "music": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "music.favoriteplaylist",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "created_at": "2025-07-18T23:02:03.517Z",
+    "updated_at": "2025-07-18T23:02:03.517Z",
+    "music": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "music.favoriteplaylist",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "fevel54772@hadvar.com"
+    ],
+    "created_at": "2025-07-21T00:19:49.440Z",
+    "updated_at": "2025-07-21T00:19:49.440Z",
+    "music": []
+  }
+},
+{
+  "model": "music.favoriteplaylist",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "losifim354@modirosa.com"
+    ],
+    "created_at": "2025-07-22T22:02:55.157Z",
+    "updated_at": "2025-07-22T22:02:55.157Z",
+    "music": []
+  }
+},
+{
+  "model": "music.favoriteplaylist",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "civapi5237@forexru.com"
+    ],
+    "created_at": "2025-07-22T22:16:24.955Z",
+    "updated_at": "2025-07-22T22:16:24.955Z",
+    "music": [
+      1
+    ]
+  }
+},
+{
+  "model": "music.favoriteplaylist",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "lapid98041@kissgy.com"
+    ],
+    "created_at": "2025-07-22T22:18:20.324Z",
+    "updated_at": "2025-07-22T22:18:20.324Z",
+    "music": []
+  }
+},
+{
+  "model": "music.favoriteplaylist",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "created_at": "2025-07-23T21:45:18.234Z",
+    "updated_at": "2025-07-23T21:45:18.234Z",
+    "music": []
+  }
+},
+{
+  "model": "tasks.gratitudeentry",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "content": "I am very greatfull to my family",
+    "date": "2025-07-18",
+    "created_at": "2025-07-17T21:16:54.878Z"
+  }
+},
+{
+  "model": "tasks.gratitudeentry",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "content": "today day was a hot day",
+    "date": "2025-07-23",
+    "created_at": "2025-07-23T17:21:26.391Z"
+  }
+},
+{
+  "model": "tasks.gratitudeentry",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "content": "Your gratitude entry here",
+    "date": "2025-07-23",
+    "created_at": "2025-07-23T17:25:48.556Z"
+  }
+},
+{
+  "model": "tasks.gratitudeentry",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "content": "hfalkshjlfksad",
+    "date": "2025-07-24",
+    "created_at": "2025-07-23T18:08:18.976Z"
+  }
+},
+{
+  "model": "tasks.gratitudeentry",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "content": "Your gratitude entry here",
+    "date": "2025-07-24",
+    "created_at": "2025-07-23T18:10:29.808Z"
+  }
+},
+{
+  "model": "tasks.gratitudeentry",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "content": "i am very lucky",
+    "date": "2025-07-25",
+    "created_at": "2025-07-24T20:34:35.144Z"
+  }
+},
+{
+  "model": "tasks.gratitudeentry",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "content": "not a good day",
+    "date": "2025-07-25",
+    "created_at": "2025-07-24T20:54:54.707Z"
+  }
+},
+{
+  "model": "tasks.gratitudeentry",
+  "pk": 8,
+  "fields": {
+    "user": [
+      "sewaca4603@jxbav.com"
+    ],
+    "content": "this is for testing",
+    "date": "2025-07-25",
+    "created_at": "2025-07-24T21:20:01.647Z"
+  }
+},
+{
+  "model": "tasks.gratitudeentry",
+  "pk": 9,
+  "fields": {
+    "user": [
+      "shohanulislam19892@gmail.com"
+    ],
+    "content": "My family is my power",
+    "date": "2025-07-26",
+    "created_at": "2025-07-25T20:10:10.977Z"
+  }
+},
+{
+  "model": "tasks.affirmation",
+  "pk": 1,
+  "fields": {
+    "text": "I am capable of achieving my goals.",
+    "date": "2025-07-24",
+    "created_at": "2025-07-24T00:08:45.452Z",
+    "completed_by": [
+      [
+        "shohan@gmail.com"
+      ]
+    ]
+  }
+},
+{
+  "model": "tasks.affirmation",
+  "pk": 2,
+  "fields": {
+    "text": "I am worthy of love and respect.",
+    "date": "2025-07-24",
+    "created_at": "2025-07-24T00:15:27.460Z",
+    "completed_by": [
+      [
+        "shohan@gmail.com"
+      ],
+      [
+        "anjulooki@gmail.com"
+      ]
+    ]
+  }
+},
+{
+  "model": "tasks.affirmation",
+  "pk": 3,
+  "fields": {
+    "text": "I am valued and helpful.",
+    "date": "2025-07-24",
+    "created_at": "2025-07-24T00:15:36.927Z",
+    "completed_by": [
+      [
+        "anjulooki@gmail.com"
+      ]
+    ]
+  }
+},
+{
+  "model": "tasks.affirmation",
+  "pk": 4,
+  "fields": {
+    "text": "I am resilient and can overcome life’s challenges.",
+    "date": "2025-07-24",
+    "created_at": "2025-07-24T00:16:09.360Z",
+    "completed_by": [
+      [
+        "shohan@gmail.com"
+      ],
+      [
+        "anjulooki@gmail.com"
+      ]
+    ]
+  }
+},
+{
+  "model": "tasks.affirmation",
+  "pk": 5,
+  "fields": {
+    "text": "I deserve the same kindness I give to others, and I extend that kindness to myself.",
+    "date": "2025-07-24",
+    "created_at": "2025-07-24T00:16:28.559Z",
+    "completed_by": [
+      [
+        "shohanulislam19892@gmail.com"
+      ]
+    ]
+  }
+},
+{
+  "model": "tasks.dailytaskcompletion",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "date": "2025-07-24",
+    "gratitude_completed": false,
+    "breathing_exercise_count": 2,
+    "affirmation_completed": true
+  }
+},
+{
+  "model": "tasks.dailytaskcompletion",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "date": "2025-07-24",
+    "gratitude_completed": false,
+    "breathing_exercise_count": 3,
+    "affirmation_completed": true
+  }
+},
+{
+  "model": "tasks.dailytaskcompletion",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "date": "2025-07-25",
+    "gratitude_completed": false,
+    "breathing_exercise_count": 0,
+    "affirmation_completed": true
+  }
+},
+{
+  "model": "tasks.dailytaskcompletion",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "date": "2025-07-25",
+    "gratitude_completed": false,
+    "breathing_exercise_count": 0,
+    "affirmation_completed": true
+  }
+},
+{
+  "model": "tasks.dailytaskcompletion",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "shohanulislam19892@gmail.com"
+    ],
+    "date": "2025-07-26",
+    "gratitude_completed": false,
+    "breathing_exercise_count": 1,
+    "affirmation_completed": true
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "0a05c183-cbbc-49f2-b046-0a267a39ba34",
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "title": "hello",
+    "created_at": "2025-07-22T21:59:40.789Z",
+    "updated_at": "2025-07-22T21:59:43.893Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "0cee7cd9-e888-443d-bb14-52fec3e181d0",
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "title": "hi",
+    "created_at": "2025-07-24T00:46:08.399Z",
+    "updated_at": "2025-07-24T00:46:10.562Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "0dcfc2ef-13f3-443b-b8c0-16ac6dbe6a66",
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "title": null,
+    "created_at": "2025-07-21T21:27:23.219Z",
+    "updated_at": "2025-07-21T21:34:22.852Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "1f4f41a3-6ede-4034-8277-1fae9ea3dfca",
+  "fields": {
+    "user": [
+      "fevel54772@hadvar.com"
+    ],
+    "title": "hi how are you",
+    "created_at": "2025-07-21T23:16:10.469Z",
+    "updated_at": "2025-07-21T23:16:12.187Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "203ffa80-3b9f-440b-b8c1-84859a42954e",
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "title": "hi",
+    "created_at": "2025-07-24T00:46:08.377Z",
+    "updated_at": "2025-07-24T00:46:11.101Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "412331e5-6261-4259-b25f-e4c9a974d477",
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "title": "hello",
+    "created_at": "2025-07-25T00:43:02.737Z",
+    "updated_at": "2025-07-25T00:43:05.430Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "4c2f57b0-272c-4146-add4-94749e09def8",
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "title": "hi",
+    "created_at": "2025-07-23T23:23:05.173Z",
+    "updated_at": "2025-07-23T23:24:07.000Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "5f506c6d-4ccd-4262-b445-5385065a3071",
+  "fields": {
+    "user": [
+      "hegepos292@forexru.com"
+    ],
+    "title": "suggest medicine for backpain\\",
+    "created_at": "2025-07-22T22:06:26.966Z",
+    "updated_at": "2025-07-22T22:06:33.413Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "675c68ba-b0cf-4c60-a8b2-52285d7d785b",
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "title": "I am joy sutradhar",
+    "created_at": "2025-07-25T00:43:02.737Z",
+    "updated_at": "2025-07-25T00:43:05.720Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "6a991b4e-c3e3-4f8e-adc9-155f3784eb63",
+  "fields": {
+    "user": [
+      "fevel54772@hadvar.com"
+    ],
+    "title": "I am joy sutradhar",
+    "created_at": "2025-07-22T18:28:18.391Z",
+    "updated_at": "2025-07-22T18:28:21.406Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "7a9b9a7f-4564-4513-8efa-2c1e64965701",
+  "fields": {
+    "user": [
+      "fevel54772@hadvar.com"
+    ],
+    "title": "I am joy sutradhar",
+    "created_at": "2025-07-22T18:29:08.039Z",
+    "updated_at": "2025-07-22T18:29:09.190Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "99256c5e-195d-4ac7-bdd1-c848a6aad650",
+  "fields": {
+    "user": [
+      "mdmnb435@gmail.com"
+    ],
+    "title": "what kind of therapy you can assist me",
+    "created_at": "2025-07-22T22:15:42.454Z",
+    "updated_at": "2025-07-22T22:15:49.224Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "9c866291-b527-4d41-969b-09a1d50676ed",
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "title": "New Chat 2",
+    "created_at": "2025-07-21T21:00:50.837Z",
+    "updated_at": "2025-07-21T21:00:54.565Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "b084a68a-2e4c-4c18-86ad-b151c92542b8",
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "title": "New Chat 1",
+    "created_at": "2025-07-21T20:14:17.648Z",
+    "updated_at": "2025-07-21T22:17:48.003Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "b51ad508-47d8-4b80-acce-4bcef1e0ffab",
+  "fields": {
+    "user": [
+      "hegepos292@forexru.com"
+    ],
+    "title": "suggest medicine for head pain",
+    "created_at": "2025-07-22T22:06:51.156Z",
+    "updated_at": "2025-07-22T22:06:55.923Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "b64efe31-75d4-42dd-8a88-b1b76614a6b6",
+  "fields": {
+    "user": [
+      "losifim354@modirosa.com"
+    ],
+    "title": "I'm feeling lonely",
+    "created_at": "2025-07-22T21:56:32.660Z",
+    "updated_at": "2025-07-22T21:57:32.103Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "c24c9bc5-2226-48c5-8ba8-d4f52b5011bc",
+  "fields": {
+    "user": [
+      "fevel54772@hadvar.com"
+    ],
+    "title": "New Chat 1",
+    "created_at": "2025-07-21T20:13:25.926Z",
+    "updated_at": "2025-07-21T22:48:47.610Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "c9e0a84c-34b0-4ebd-b31a-118f84642dc6",
+  "fields": {
+    "user": [
+      "losifim354@modirosa.com"
+    ],
+    "title": "hello",
+    "created_at": "2025-07-22T21:56:17.046Z",
+    "updated_at": "2025-07-22T21:56:20.023Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "d71cf692-8ee3-4227-a13e-fdda0dd0bd2d",
+  "fields": {
+    "user": [
+      "mdmnb435@gmail.com"
+    ],
+    "title": "Ok Lets discuss about cbt",
+    "created_at": "2025-07-22T22:17:14.297Z",
+    "updated_at": "2025-07-22T22:17:18.864Z"
+  }
+},
+{
+  "model": "therapy.therapysession",
+  "pk": "fd40ec15-1257-4f43-8a38-0740b49bc6fa",
+  "fields": {
+    "user": [
+      "lapid98041@kissgy.com"
+    ],
+    "title": "hlw are u?",
+    "created_at": "2025-07-22T22:10:01.598Z",
+    "updated_at": "2025-07-22T22:16:31.570Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 1,
+  "fields": {
+    "session": null,
+    "user_message": "hello",
+    "ai_response": "Hello, and welcome. I'm really glad you reached out today. How are you feeling right now? Is there something specific on your mind that you'd like to talk about or work through together? Take your time—I’m here to listen with an open heart and mind.",
+    "timestamp": "2025-07-21T18:47:55.340Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 2,
+  "fields": {
+    "session": null,
+    "user_message": "hi ",
+    "ai_response": "Hi again. It’s good to hear from you. Sometimes just saying “hello” can be a way of connecting or reaching out, even when it feels hard to put words to what’s going on inside. If you feel comfortable, could you share a little about what brought you here today or what’s been on your mind lately? Whatever it is, this is a safe, nonjudgmental space for you.",
+    "timestamp": "2025-07-21T18:48:43.184Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 3,
+  "fields": {
+    "session": null,
+    "user_message": "ok i have a friend name nazrul islam. he is feeling very sad because now he is single and he want to get marrid soon but he is not finding any girl.",
+    "ai_response": "Thank you for sharing about your friend Nazrul’s situation. It sounds like he’s going through a tough time feeling isolated and disappointed about not finding a partner yet. Wanting companionship and a meaningful relationship is a very natural and important part of life, and it’s understandable that he feels sadness and perhaps frustration right now.\n\nFrom what you described, Nazrul might be experiencing some feelings of loneliness and maybe even some self-doubt. These are common when people face challenges in their social or romantic lives. It could be helpful for him to explore some ways to gently build connections and increase his confidence in meeting new people.\n\nOne approach I often find helpful is to start by focusing on activities and environments where he might meet people who share his values or interests. This can be anything from community groups, hobby classes, volunteering, or social clubs. Sometimes, when the focus is on building friendships and shared experiences first, romantic relationships can develop more naturally and feel less pressured.\n\nI’m also curious—how does Nazrul feel about himself right now? Does he find himself blaming or judging himself for the situation? If so, it can be helpful to bring some self-compassion into the process. Depression or sadness often brings a harsh inner critic, but these thoughts are usually connected to the emotional pain, not objective truths.\n\nCould you tell me a bit more about how Nazrul typically spends his time? How does he usually connect with others, and what does he enjoy doing? Understanding this can help",
+    "timestamp": "2025-07-21T18:53:58.870Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 4,
+  "fields": {
+    "session": null,
+    "user_message": "ok i understand now should i tell him to stop searching girl.",
+    "ai_response": "It’s good that you’re thinking about how best to support Nazrul. Rather than telling him to simply “stop searching,” which might make him feel as though his feelings are being dismissed, it could be more helpful to gently guide him toward a balanced perspective.\n\nOne thing to consider is that actively seeking a relationship can sometimes create pressure and anxiety, especially when things aren’t happening as quickly as hoped. This pressure might lead to discouragement or make interactions feel more stressful, which can inadvertently make dating more difficult.\n\nInstead of stopping entirely, perhaps you can encourage Nazrul to shift the focus a bit: to slow down the search by placing greater attention on personal growth, building friendships, and engaging in enjoyable activities. This can help reduce anxiety around “finding the right person” and open up possibilities in a more relaxed and positive way. Sometimes, when we focus less on the outcome and more on genuine connection and self-enjoyment, relationships tend to blossom more naturally.\n\nYou might say something like, “I know you really want to get married, and that’s important to you, but maybe it could help to give yourself some space from the pressure of needing to find someone right now. What if you focused on things that make you feel good about yourself and meeting new people in ways that aren’t just about dating?”\n\nHow do you think Nazrul might respond to that idea? Would he be open to exploring different ways of connecting that feel less stressful?",
+    "timestamp": "2025-07-21T18:57:03.196Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 5,
+  "fields": {
+    "session": null,
+    "user_message": "hello",
+    "ai_response": "I notice you’re continuing to say “hello,” which might feel like a small step or maybe there’s some hesitation beneath. That’s completely okay—sometimes starting to share can feel challenging. \n\nIf you like, we can simply sit with the moment as it is, or if you want, I’m here to gently explore what’s going on for you. How are you experiencing things right now—any feelings, thoughts, or sensations that you notice? There’s no rush.",
+    "timestamp": "2025-07-21T19:03:07.757Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 6,
+  "fields": {
+    "session": null,
+    "user_message": "I am joy sutradhar",
+    "ai_response": "Nice to meet you, Joy. Thank you for sharing your name with me. It feels more personal now, and I appreciate that connection. \n\nHow have you been feeling lately, Joy? Is there something specific you’d like to explore or work on together today? Sometimes talking about what’s happening inside—whether it’s joy, struggle, confusion, or anything else—can be the first meaningful step toward understanding and relief.",
+    "timestamp": "2025-07-21T19:04:33.430Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 7,
+  "fields": {
+    "session": null,
+    "user_message": "I am tensed about my current life",
+    "ai_response": "Thank you for sharing that, Joy. Feeling tense about your current life can be really exhausting and may even feel overwhelming at times. It’s important that you’ve noticed this tension and are reaching out—that’s a strong and brave first step. \n\nCan you tell me more about what parts of your life feel tense or stressful right now? Are there particular situations, relationships, work, or thoughts that seem to bring on this feeling? Sometimes, when we get a clearer picture of the sources of tension, we can start to find ways to address or manage them.\n\nAlso, I’d like to introduce a simple practice that might help you begin to feel a bit more grounded in the moment when tension rises. It’s called “mindful noticing.” You can gently bring your attention to what you’re experiencing right now—whether it’s a tightness in your body, a racing thought, or an emotion like anxiety—and observe it as if you’re watching clouds passing in the sky. No need to change anything, just noticing it with kindness and curiosity. \n\nWould you be willing to try that together right now? If so, I can guide you through it.",
+    "timestamp": "2025-07-21T19:05:59.786Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 8,
+  "fields": {
+    "session": null,
+    "user_message": "I am a student and a front end developer ",
+    "ai_response": "Thank you for sharing that, Joy. Being both a student and a front-end developer sounds like a demanding and multifaceted role. Balancing studies along with work or development projects can certainly bring a lot of pressure, which might be contributing to the tension you’re feeling.\n\nCould you tell me more about how these roles are affecting you day to day? For example, are there specific challenges with managing your workload, deadlines, or perhaps balancing expectations from school and your development work? Understanding more about what feels most stressful can help us find ways to navigate it more effectively.\n\nAlso, when you notice that tension building—whether it’s before a deadline or during a tough project—what kinds of thoughts or feelings come up for you? It can be helpful to gently explore what your mind is telling you in these moments.\n\nIf you’d like, we could also discuss some strategies tailored to your busy schedule. For example, breaking down your tasks into smaller, manageable steps or building in brief mindfulness moments to reduce stress.\n\nHow does all that sound to you? Would you like to share more about your current challenges?",
+    "timestamp": "2025-07-21T19:12:53.387Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 9,
+  "fields": {
+    "session": null,
+    "user_message": "now my degree is about to end and salary is low ",
+    "ai_response": "Thank you for sharing that, Joy. It sounds like you're facing a period of significant transition and some uncertainty around your future, especially as your degree comes to an end and your salary feels low. That combination can definitely create a lot of pressure and understandably contribute to feeling tense or anxious.\n\nIt can be tough when hard work seems to feel like it’s not yet matched by financial reward or stability. I want to acknowledge how challenging that can be, and how normal it is to feel worried or even discouraged in this situation.\n\nCan I ask: What thoughts go through your mind when you think about graduating and your current salary? Are there certain worries or fears that stand out? Sometimes, naming these can give us a clearer idea of what’s driving some of the tension.\n\nAlso, I wonder—what are your values or hopes for your career in the longer term? Reflecting on why you chose front-end development or your studies in the first place can be a way to ground yourself during uncertainty. You mentioned being a developer and a student—what is it about these roles that matters most to you?\n\nLastly, have you thought about any steps or strategies to address this financial stress? For example, exploring other opportunities, upskilling, or budgeting approaches? I’m here to help you brainstorm or create a practical plan, if that would be helpful.\n\nHow are you feeling now after sharing this? Would you like to explore parts of this further?",
+    "timestamp": "2025-07-21T19:15:19.976Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 10,
+  "fields": {
+    "session": null,
+    "user_message": "now i need finacial freedom",
+    "ai_response": "I hear the longing in your words, Joy—the desire for financial freedom is deeply important and valid. Feeling financially constrained can weigh heavily on your sense of autonomy, security, and peace of mind.\n\nWhen you say you need financial freedom, can you tell me what that looks like or means for you specifically? For instance, does it mean having enough to cover your essentials without stress, being able to save and invest, or perhaps more flexibility in your work and choices?\n\nIt might help to acknowledge this desire without judgment or pressure. Sometimes, when we place “must” statements on ourselves—like “I must have financial freedom right now”—it can create even more tension and anxiety. Instead, cultivating a mindset of acceptance about where you are today, coupled with clear, manageable steps toward your goals, can be a powerful combination.\n\nLet’s gently explore a few questions:  \n- What small but meaningful steps could you take right now to move toward more financial autonomy?  \n- Are there skills you might develop, side projects you could pursue, or budgeting strategies that could ease the immediate pressure?  \n- How might you balance action with self-compassion during this sometimes slow and difficult process?\n\nIf you like, we can also work on addressing any unhelpful beliefs or worries that come up around money. For example, sometimes people hold rigid beliefs like “I must never be broke” or “I can’t be happy unless I’m financially free,” which can increase distress when life doesn’t go as planned.",
+    "timestamp": "2025-07-21T19:22:15.048Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 11,
+  "fields": {
+    "session": "c24c9bc5-2226-48c5-8ba8-d4f52b5011bc",
+    "user_message": "tihs is a implementation test",
+    "ai_response": "Thank you for sharing that. It sounds like you might be checking how this interaction works, or perhaps testing how you can implement something here. How are you feeling about this test so far? Is there something specific you’d like guidance or support with related to implementation, or maybe with coping during this process? \n\nIf you’re experiencing any frustration or uncertainty, that’s completely understandable. Sometimes testing new things can bring up a mix of feelings. Would it be helpful to talk through any thoughts or concerns you have right now?",
+    "timestamp": "2025-07-21T20:13:30.978Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 12,
+  "fields": {
+    "session": "b084a68a-2e4c-4c18-86ad-b151c92542b8",
+    "user_message": "my mood is very off now",
+    "ai_response": "Thank you for sharing that with me. When you say your mood is very off, can you tell me a bit more about what you’re experiencing right now? For example, are you feeling more down, irritable, anxious, or something else? Sometimes, putting words to these feelings can help us start to understand them better. \n\nAlso, have you noticed any recent changes in your thoughts, energy levels, sleep, or activity that might be related to this shift in mood? Often, mood fluctuations can come from a combination of internal and external factors, and identifying those can help us figure out what might be most helpful for you in this moment. \n\nWould you be comfortable exploring some ways to manage these feelings together? We can try grounding techniques, thought awareness exercises, or plan some small activities that might help stabilize your mood. How does that sound?",
+    "timestamp": "2025-07-21T20:14:22.028Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 13,
+  "fields": {
+    "session": "9c866291-b527-4d41-969b-09a1d50676ed",
+    "user_message": "ok now i am sleeping",
+    "ai_response": "I hear you saying, \"ok now i am sleeping.\" It sounds like you might be getting ready to sleep, or perhaps you're noticing how things feel right now around your sleep. How are you feeling as you prepare for rest? Are you experiencing any difficulty settling down or calming your mind?\n\nIf you feel like sharing, I’m here to listen — sometimes it helps to talk about what’s on your mind before sleep. Also, if falling asleep has been a challenge, we can explore some gentle strategies to support your sleep hygiene, like setting a consistent bedtime, avoiding stimulants like caffeine, or engaging in a relaxing activity before bed.\n\nWhat usually helps you feel calm and ready to sleep?",
+    "timestamp": "2025-07-21T21:00:54.560Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 14,
+  "fields": {
+    "session": "0dcfc2ef-13f3-443b-b8c0-16ac6dbe6a66",
+    "user_message": "hello how are you?",
+    "ai_response": "Hello! I'm glad you're here today. I'm doing well, thank you for asking. How have things been for you since we last connected? Is there anything on your mind that you'd like to talk about today?",
+    "timestamp": "2025-07-21T21:34:22.847Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 15,
+  "fields": {
+    "session": "b084a68a-2e4c-4c18-86ad-b151c92542b8",
+    "user_message": "i am ok now but can you remmeber my previous question",
+    "ai_response": "I’m glad to hear you’re feeling a bit better now. Yes, I do remember that you mentioned your mood was very off earlier. It’s completely understandable that mood can fluctuate, and it’s really helpful that you checked in about it.\n\nIf you like, we can explore what seemed to trigger that shift or what might help you maintain a steadier mood moving forward. Often, when our mood changes suddenly, it can be valuable to ask ourselves questions like: “What was happening before this mood shift? What did I notice in my body or thoughts? What might I do differently next time to support myself?”\n\nWould you be interested in reflecting on what was present during your low point, or would you prefer to focus more on coping strategies and ways to build resilience for future moments? Either way is perfectly okay—this is your space to guide our work together.",
+    "timestamp": "2025-07-21T22:17:47.997Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 16,
+  "fields": {
+    "session": "c24c9bc5-2226-48c5-8ba8-d4f52b5011bc",
+    "user_message": "not that much , I am searching a home to live ",
+    "ai_response": "Thank you for sharing that you’re currently searching for a home to live in. That can be a significant and sometimes stressful life event. It sounds like you’re in a period of transition, which can bring up a lot of mixed emotions—excitement, uncertainty, maybe some worry.\n\nWhen you think about finding a home, what feelings come up for you? Are there particular aspects of this search that feel challenging or overwhelming right now?\n\nSometimes, it helps to focus on values during times like this. For example, what kind of environment would feel most supportive and nurturing for you? Are there qualities or experiences that are especially important to have in your new home? \n\nAlso, the process itself can feel large and complex. Breaking it down into smaller steps—like defining your priorities, setting a budget, exploring neighborhoods, or reaching out to contacts—can make things feel more manageable.\n\nHow have you been coping with this search so far? Are there strategies you’ve found helpful, or ways you might want to try supporting yourself through this transition?",
+    "timestamp": "2025-07-21T22:45:56.725Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 17,
+  "fields": {
+    "session": "c24c9bc5-2226-48c5-8ba8-d4f52b5011bc",
+    "user_message": "suggest me some feasable startegy to search home",
+    "ai_response": "Absolutely—looking for a home can feel overwhelming, but with some clear strategies, you can make the process more manageable and even empowering. Let’s explore some practical steps together:\n\n1. **Clarify Your Priorities and Values.**  \n   Take a moment to reflect on what matters most to you in a home. Is it location, affordability, safety, access to work or school, proximity to friends or family, or something else? Writing down your top priorities can help guide your search and focus your energy on what really matters to you.\n\n2. **Set a Realistic Budget.**  \n   Understanding your financial boundaries will help narrow your options and reduce stress caused by looking at places that may not be feasible. Consider not only rent or mortgage but also utilities, transportation, groceries, and other living costs.\n\n3. **Gather Information and Use Resources.**  \n   Utilize online platforms, community boards, local real estate offices, and social networks to discover available places. Sometimes asking friends or colleagues if they know of openings can lead to opportunities that are not widely advertised.\n\n4. **Create a Schedule for Your Search.**  \n   Decide how much time daily or weekly you can dedicate to searching and following up on potential homes. Structured time can help you feel in control rather than scattered.\n\n5. **Visit Potential Homes When Possible.**  \n   If you can, try to see the homes in person to get a real sense of the space and neighborhood. If not, virtual tours can also",
+    "timestamp": "2025-07-21T22:47:30.997Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 18,
+  "fields": {
+    "session": "c24c9bc5-2226-48c5-8ba8-d4f52b5011bc",
+    "user_message": "proceed on the strategy 3",
+    "ai_response": "Certainly, let’s dive deeper into Strategy 3: **Gather Information and Use Resources.**\n\nThis step is fundamental because the more information you have, the better equipped you’ll be to make informed decisions and find options that align with your priorities and budget. Here’s how you can approach it:\n\n### a) Explore Online Platforms  \nThere are numerous websites and apps dedicated to housing listings—depending on your location, popular sites include Zillow, Apartments.com, Craigslist, or localized platforms. Setting up filters based on your budget, desired location, and other important criteria can help you narrow options efficiently. You might also set alerts to receive notifications when new listings appear.\n\n### b) Leverage Social Networks  \nSometimes opportunities come from word of mouth. Inform friends, family, coworkers, or acquaintances that you’re looking for a home. You can also post on your social media or community groups. People in your network might know about vacancies before they’re advertised or may offer shared accommodation options.\n\n### c) Connect with Real Estate Agents or Property Managers  \nIf your budget allows, engaging professionals can ease the search process. They often have access to listings not publicly advertised and can support negotiations or paperwork.\n\n### d) Check Community Boards and Local Resources  \nPublic places such as libraries, community centers, or grocery stores often have bulletin boards where landlords post vacancies. Additionally, local newspapers or community websites may carry listings.\n\n### e) Maintain Organized Records  \nKeep track of places you’ve contacted, visited, or are interested in.",
+    "timestamp": "2025-07-21T22:48:47.604Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 21,
+  "fields": {
+    "session": "1f4f41a3-6ede-4034-8277-1fae9ea3dfca",
+    "user_message": "hi how are you",
+    "ai_response": "Hello! I'm here and ready to listen. How are you feeling today? Is there something on your mind that you’d like to talk about?",
+    "timestamp": "2025-07-21T23:16:12.181Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 22,
+  "fields": {
+    "session": "6a991b4e-c3e3-4f8e-adc9-155f3784eb63",
+    "user_message": "I am joy sutradhar",
+    "ai_response": "Hello Joy, it's nice to meet you. How are you feeling today? What brings you to therapy? I'd like to hear about what's going on in your life so we can explore it together and find ways to support you.",
+    "timestamp": "2025-07-22T18:28:21.401Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 23,
+  "fields": {
+    "session": "7a9b9a7f-4564-4513-8efa-2c1e64965701",
+    "user_message": "I am joy sutradhar",
+    "ai_response": "Hello Joy, it's nice to meet you. How are you feeling today, and what brings you to therapy at this moment? Feel free to share whatever is on your mind—there’s no rush or pressure here.",
+    "timestamp": "2025-07-22T18:29:09.185Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 24,
+  "fields": {
+    "session": "c9e0a84c-34b0-4ebd-b31a-118f84642dc6",
+    "user_message": "hello",
+    "ai_response": "Hello, and welcome. I’m really glad you reached out today. How are you feeling right now? Is there something specific on your mind that you’d like to talk about? This is a safe, nonjudgmental space, so feel free to share whatever feels important to you.",
+    "timestamp": "2025-07-22T21:56:20.018Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 25,
+  "fields": {
+    "session": "b64efe31-75d4-42dd-8a88-b1b76614a6b6",
+    "user_message": "I'm feeling lonely",
+    "ai_response": "Thank you for sharing that you’re feeling lonely. Loneliness can be a deeply painful experience, and it’s important to recognize and validate this feeling rather than push it away. Can you tell me a bit more about what loneliness feels like for you right now? Are there specific moments or situations where it feels stronger?\n\nSometimes loneliness can lead us to withdraw from social contact, as it may seem easier to avoid the discomfort. This can create a pattern where the more we avoid, the more isolated we feel. Have you noticed if you find yourself pulling away from others lately? If so, what thoughts or feelings come up when the idea of socializing arises?\n\nOne helpful approach might be to gently explore these thoughts without judgment—an idea from Acceptance and Commitment Therapy—by inviting you to observe them with some distance, like you’re watching clouds pass in the sky. For example, you might notice thoughts like “I don’t have anything to say,” or “I’m a burden,” and simply acknowledge them without acting on them immediately.\n\nCan we also consider small, manageable steps toward connection that feel safe to you? Even brief, low-pressure contact—like a text message or a short visit—can begin to counteract loneliness over time. Sometimes setting a small goal, such as reaching out to one person this week, can help break the cycle.\n\nHow do you feel about trying something like this? And are there specific connections or activities you’ve found helpful in the past when you’ve felt lonely?",
+    "timestamp": "2025-07-22T21:56:38.673Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 26,
+  "fields": {
+    "session": "b64efe31-75d4-42dd-8a88-b1b76614a6b6",
+    "user_message": "Hello give me the reply in shortly",
+    "ai_response": "I’m sorry you’re feeling lonely—it can be really hard. Can you share what moments or thoughts make you feel this way? Sometimes gently noticing these feelings without judgment can help. Would you be open to trying small steps toward connection, like reaching out to someone you trust, even in a small way? What has helped you feel less lonely before?",
+    "timestamp": "2025-07-22T21:57:32.098Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 27,
+  "fields": {
+    "session": "0a05c183-cbbc-49f2-b046-0a267a39ba34",
+    "user_message": "hello",
+    "ai_response": "Hello, I'm glad you reached out today. How are you feeling right now? Is there something specific on your mind that you'd like to talk about? Take your time—this is a safe, accepting space where you can share whatever's coming up for you.",
+    "timestamp": "2025-07-22T21:59:43.888Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 28,
+  "fields": {
+    "session": "5f506c6d-4ccd-4262-b445-5385065a3071",
+    "user_message": "suggest medicine for backpain\\",
+    "ai_response": "I'm sorry to hear that you're experiencing back pain. While medication can sometimes help manage pain, it's important to approach back pain with a comprehensive plan that may include physical movement, posture adjustments, and sometimes therapeutic interventions. \n\nSince I’m a therapist and not a medical doctor, I can’t prescribe medication directly. However, I can help you explore ways to manage your pain from a psychological and behavioral perspective, which can often complement medical treatment. \n\nCould you tell me a bit more about your back pain — for example, when it started, what seems to make it better or worse, and how it affects your daily life? This will help me understand how it's impacting you emotionally and behaviorally, and we can work together on coping strategies. \n\nIn addition, if you haven't already, I encourage you to discuss your back pain with a healthcare provider. They can evaluate your physical condition and determine if medications such as over-the-counter options like NSAIDs (ibuprofen) or muscle relaxants are appropriate for you.\n\nMeanwhile, are there moments during the day when your pain feels less intense? Have you noticed patterns or activities that influence your pain levels? Sometimes gentle movement, mindfulness, or relaxation techniques can also ease the discomfort and reduce the emotional strain that chronic pain often brings. Would you be interested in exploring some of these strategies?",
+    "timestamp": "2025-07-22T22:06:33.406Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 29,
+  "fields": {
+    "session": "b51ad508-47d8-4b80-acce-4bcef1e0ffab",
+    "user_message": "suggest medicine for head pain",
+    "ai_response": "I'm sorry to hear that you're experiencing head pain. While I can provide some general information about common medications used for headache relief, it's essential to consult with a healthcare professional for an accurate diagnosis and personalized treatment plan.\n\nFor common headaches like tension-type headaches or mild migraines, over-the-counter medications such as acetaminophen (Tylenol) or nonsteroidal anti-inflammatory drugs (NSAIDs) like ibuprofen (Advil, Motrin) are often used. However, if your headaches are recurrent, severe, or accompanied by other symptoms, you may need a more tailored approach.\n\nSome therapeutic interventions, such as Problem-Solving Therapy combined with relaxation techniques, have shown effectiveness in reducing the frequency and intensity of recurrent headaches. Have you tried any relaxation or stress-management strategies before? Sometimes incorporating these can complement medication and improve overall outcomes.\n\nCan you tell me more about your headaches—their frequency, intensity, any triggers you’ve noticed, and if you've tried any treatments so far? This can help us explore coping strategies that might support you while you seek medical advice.",
+    "timestamp": "2025-07-22T22:06:55.919Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 30,
+  "fields": {
+    "session": "fd40ec15-1257-4f43-8a38-0740b49bc6fa",
+    "user_message": "hlw are u?",
+    "ai_response": "Hello! I'm glad you reached out today. How are *you* feeling right now? Is there something on your mind that you'd like to talk about? I'm here to listen and support you.",
+    "timestamp": "2025-07-22T22:10:03.443Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 31,
+  "fields": {
+    "session": "fd40ec15-1257-4f43-8a38-0740b49bc6fa",
+    "user_message": "i feel like i am depressed",
+    "ai_response": "Thank you for sharing that with me. Feeling depressed can be really tough and heavy to carry. It’s important to remember that depression is a treatable condition, and what you’re feeling right now is not your fault—it’s a symptom of the illness, not a reflection of who you truly are.\n\nIf you feel comfortable, could you tell me more about what your depression feels like? For example, are there particular thoughts, feelings, or situations that you've noticed that make your mood worse or better? \n\nSometimes, when depression has been with someone for a long time, it’s hard to distinguish it from their sense of self. Have you noticed any changes in how you see yourself or your ability to enjoy things you used to like? \n\nWe can work together to understand these feelings better and find strategies to help you start feeling more in control and hopeful. Would you like to explore some ways that might help with managing these feelings?",
+    "timestamp": "2025-07-22T22:10:36.973Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 32,
+  "fields": {
+    "session": "fd40ec15-1257-4f43-8a38-0740b49bc6fa",
+    "user_message": "yes",
+    "ai_response": "I’m really glad to hear you’re open to exploring ways to cope and feel better. That’s a strong and hopeful step.\n\nOne helpful approach is to start noticing your thoughts and emotions without judgment—a kind of mindful observation. Sometimes when we're depressed, our minds get caught in negative patterns, and it can feel overwhelming. This practice can help you see your thoughts and feelings as passing experiences, rather than facts about you or your future.\n\nLet's try a simple exercise together:\n\nTake a moment now to close your eyes if you feel comfortable. I want you to gently bring your attention to what's happening inside—your thoughts, feelings, and bodily sensations.\n\nIf you notice your mind wandering or reacting, that’s okay. Just kindly notice that your attention has drifted, and gently bring it back to observing your experience right now.\n\nCan you try that for a minute or two and then share what you noticed? \n\nAlso, if you want, we can explore some ways to identify any negative thoughts that might be fueling your depression and practice gently challenging them—this comes from Cognitive Behavioral Therapy, and it can be very empowering. How does that sound?",
+    "timestamp": "2025-07-22T22:11:13.042Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 33,
+  "fields": {
+    "session": "fd40ec15-1257-4f43-8a38-0740b49bc6fa",
+    "user_message": "i need therapy",
+    "ai_response": "Thank you for saying that—you’re expressing something important and valid. Wanting therapy is a courageous and positive step toward taking care of yourself.\n\nRight now, this space can be a safe place for you to start exploring what you’re going through. Therapy is about learning new ways to handle difficult thoughts and feelings so they don’t keep holding you back. It’s also about discovering what matters to you and what kind of life you want to create, even if that feels very unclear at this moment.\n\nI want to acknowledge that sometimes starting therapy can feel overwhelming or scary—like stepping onto a roller-coaster. There might be moments when painful feelings come up, but I will be here with you every step of the way.\n\nCould you tell me a bit more about what brings you here today and what you hope therapy could help with? That way, we can tailor our work to what feels most important to you. How does that sound?",
+    "timestamp": "2025-07-22T22:11:56.777Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 34,
+  "fields": {
+    "session": "fd40ec15-1257-4f43-8a38-0740b49bc6fa",
+    "user_message": "r u pysco?",
+    "ai_response": "I understand that sometimes when we’re feeling overwhelmed or vulnerable, it’s common to have questions or doubts about the people we’re reaching out to. I’m here to support you without judgment and to provide a safe space where you can express whatever you’re feeling.\n\nIf there’s something specific you’re concerned about or uncertain about in this process, please feel free to share it. Your feelings and questions matter, and I want to make sure you feel comfortable and understood. How are you feeling right now as we talk?",
+    "timestamp": "2025-07-22T22:12:19.971Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 36,
+  "fields": {
+    "session": "fd40ec15-1257-4f43-8a38-0740b49bc6fa",
+    "user_message": "can u give me the way to solve my problem?",
+    "ai_response": "I appreciate your honesty and your desire to find a way through this difficult time. When you say \"solve your problem,\" I’d like to understand more about what feels most challenging for you right now. Problems related to depression can often feel many-layered—some days it’s the heavy sadness, other days it could be difficulty sleeping, low energy, or negative self-talk.\n\nOne helpful approach is to break things down into smaller, manageable parts and focus on finding practical steps that can make a real difference in your daily life. Let’s start with this:\n\n1. **Identify and clearly define the problem:** What specific feelings, thoughts, or situations are causing the most distress or disruption for you right now?\n\n2. **Understand why it matters to you:** What makes this issue especially important to address? How is it affecting your life, your relationships, or your sense of well-being?\n\n3. **Brainstorm possible solutions:** Together, we can come up with some concrete, realistic options that take into account your needs and preferences.\n\n4. **Choose a solution** that feels doable and agreeable to you, and plan how you’ll try it out.\n\nFor example, if low motivation is a core challenge, one concrete action might be to set a small, achievable daily goal—like stepping outside for five minutes or writing down one thing you’re grateful for each day.\n\nWould you like to try this process now? If so, could you tell me about one problem or feeling you would most want to focus",
+    "timestamp": "2025-07-22T22:13:32.330Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 38,
+  "fields": {
+    "session": "99256c5e-195d-4ac7-bdd1-c848a6aad650",
+    "user_message": "what kind of therapy you can assist me",
+    "ai_response": "Thank you for reaching out and asking about the kinds of therapy I can assist you with. It shows that you're taking an important step in exploring support for yourself, and I want to acknowledge that.\n\nI specialize in an approach that combines elements of Cognitive Behavioral Therapy (CBT), Dialectical Behavior Therapy (DBT), and Acceptance and Commitment Therapy (ACT). These methods offer practical and compassionate ways to understand and work through thoughts, feelings, and behaviors that may be causing you distress or holding you back.\n\nFor example, through CBT, we can work together to identify unhelpful thinking patterns and gently challenge beliefs that might make you feel stuck or overwhelmed. We can explore ways to build more constructive habits and coping skills.\n\nDBT contributes tools specifically designed to enhance emotional regulation and tolerate distress when things feel intense or difficult to manage. It also helps improve interpersonal effectiveness, which is about navigating relationships in ways that are respectful to both you and others.\n\nWith ACT, we focus on accepting difficult emotions while clarifying personal values, so you can live in a way that feels meaningful to you, despite any challenges.\n\nTo help me understand which techniques might be most helpful for you, it’s useful to know about your current concerns, what you hope therapy will help you with, and how these difficulties affect your day-to-day life. Could you tell me more about what’s been on your mind or what you’d like to address in therapy? Are there particular feelings, thoughts, or situations that feel especially challenging right",
+    "timestamp": "2025-07-22T22:15:49.218Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 39,
+  "fields": {
+    "session": "fd40ec15-1257-4f43-8a38-0740b49bc6fa",
+    "user_message": "what kind of therapy do u can suggest me?",
+    "ai_response": "That’s a really thoughtful question, and it’s great that you’re curious about what kind of therapy might be a good fit for you. Different approaches work best for different people and situations, and I want to help you find what feels most helpful and supportive.\n\nBased on what you’ve shared so far and what is often effective with feelings of depression, here are a few therapies we might consider:\n\n1. **Cognitive Behavioral Therapy (CBT):** This focuses on identifying and gently challenging negative thought patterns and beliefs that contribute to depression, and building new, healthier ways of thinking and behaving. It’s practical and skills-based, helping you regain a sense of control.\n\n2. **Dialectical Behavior Therapy (DBT):** Originally developed for emotion regulation, DBT also teaches mindfulness, distress tolerance, and interpersonal effectiveness skills, which can help with managing intense feelings and reducing the urge to withdraw or avoid difficult situations.\n\n3. **Acceptance and Commitment Therapy (ACT):** This therapy emphasizes accepting difficult feelings rather than fighting them, and clarifying your personal values so you can begin building a meaningful life—even when uncomfortable emotions are present.\n\nIf you’d like, we can explore these approaches together and discover which one resonates most with you. Or perhaps there are specific goals or challenges you want to focus on that might guide us toward the best fit.\n\nWhat aspects of therapy or skill-building do you feel most drawn to or in need of right now?",
+    "timestamp": "2025-07-22T22:16:31.563Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 40,
+  "fields": {
+    "session": "d71cf692-8ee3-4227-a13e-fdda0dd0bd2d",
+    "user_message": "Ok Lets discuss about cbt",
+    "ai_response": "I'm glad you're interested in discussing Cognitive Behavioral Therapy, or CBT. It’s a widely researched and effective form of therapy that focuses on the connections between our thoughts, feelings, and behaviors. By exploring and challenging unhelpful thought patterns, CBT aims to help people develop healthier ways of thinking and coping.\n\nCan you tell me a little about what drew you to CBT? Are there specific issues or patterns in your life that you want to explore or change with this approach? This will help me tailor our discussion to what’s most relevant and useful for you. \n\nTo start, many people find it helpful to think about how their automatic thoughts—those quick, often unconscious ideas that pop into their mind—can influence how they feel and act. For example, if someone frequently thinks, “I always mess things up,” they might feel anxious or discouraged, which can affect their behavior. In CBT, we work to identify these patterns, examine the evidence for and against them, and develop more balanced, compassionate self-statements.\n\nDoes that resonate with you? Are there any automatic thoughts or recurring feelings you’ve noticed in yourself lately? We can work from there to explore some practical techniques.",
+    "timestamp": "2025-07-22T22:17:18.858Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 41,
+  "fields": {
+    "session": "4c2f57b0-272c-4146-add4-94749e09def8",
+    "user_message": "hi",
+    "ai_response": "Hello, it’s good to hear from you. How are you feeling today? Is there something on your mind that you’d like to talk about or explore together? Take your time—I’m here to listen.",
+    "timestamp": "2025-07-23T23:23:07.212Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 42,
+  "fields": {
+    "session": "4c2f57b0-272c-4146-add4-94749e09def8",
+    "user_message": "who are you?",
+    "ai_response": "That’s a thoughtful question. In this space, you can think of me as a supportive guide—a kind of companion who is here to listen, understand, and help you explore your thoughts and feelings. Think of me as a therapist who uses tools from approaches like Cognitive Behavioral Therapy, Dialectical Behavior Therapy, and Acceptance and Commitment Therapy to assist you in navigating whatever you’re experiencing.\n\nAnd I’m curious—when you ask, “Who are you?” is it about understanding me as your helper, or are you also wondering about questions related to your own sense of self? Sometimes that question—“Who am I?”—can unfold many layers inside us. Would you like to explore that together?",
+    "timestamp": "2025-07-23T23:24:06.992Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 43,
+  "fields": {
+    "session": "0cee7cd9-e888-443d-bb14-52fec3e181d0",
+    "user_message": "hi",
+    "ai_response": "Hello, and thank you for reaching out today. I’m here to listen with an open heart and mind. How are you feeling right now? Is there something specific on your mind that you’d like to talk about? Remember, this is a safe and nonjudgmental space.",
+    "timestamp": "2025-07-24T00:46:10.557Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 44,
+  "fields": {
+    "session": "203ffa80-3b9f-440b-b8c1-84859a42954e",
+    "user_message": "hi",
+    "ai_response": "Hello, it’s really good to hear from you. How are you feeling right now? Is there something on your mind that you’d like to talk about today? Remember, this is a safe space where you can share whatever you’re comfortable with.",
+    "timestamp": "2025-07-24T00:46:11.096Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 45,
+  "fields": {
+    "session": "412331e5-6261-4259-b25f-e4c9a974d477",
+    "user_message": "hello",
+    "ai_response": "Hello, I'm glad you reached out today. How are you feeling right now? Is there something on your mind that you'd like to talk about? I'm here to listen with an open heart and mind.",
+    "timestamp": "2025-07-25T00:43:05.424Z"
+  }
+},
+{
+  "model": "therapy.therapychatmessage",
+  "pk": 46,
+  "fields": {
+    "session": "675c68ba-b0cf-4c60-a8b2-52285d7d785b",
+    "user_message": "I am joy sutradhar",
+    "ai_response": "Hello Joy, it’s nice to meet you. How are you feeling today? Is there something specific on your mind that you’d like to talk about or explore together? Remember, I'm here to support you in a warm and non-judgmental way.",
+    "timestamp": "2025-07-25T00:43:05.715Z"
+  }
+},
+{
+  "model": "mood_tracker.moodentry",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "mood": "happy",
+    "date": "2025-07-23",
+    "created_at": "2025-07-23T21:36:18.030Z"
+  }
+},
+{
+  "model": "mood_tracker.moodentry",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "mood": "happy",
+    "date": "2025-07-23",
+    "created_at": "2025-07-23T22:28:57.817Z"
+  }
+},
+{
+  "model": "mood_tracker.moodentry",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "shohan@gmail.com"
+    ],
+    "mood": "sad",
+    "date": "2025-07-24",
+    "created_at": "2025-07-23T23:14:06.257Z"
+  }
+},
+{
+  "model": "mood_tracker.moodentry",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "anjulooki@gmail.com"
+    ],
+    "mood": "neutral",
+    "date": "2025-07-24",
+    "created_at": "2025-07-23T23:20:22.764Z"
+  }
+}
+]

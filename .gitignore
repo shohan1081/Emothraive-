@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.pyo
+*.pyd
+*.pyc
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+media/
+staticfiles/
+.env
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# VSCode / IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Migrations (optional: keep if you want control over them)
+**/migrations/*.py
+!**/migrations/__init__.py
