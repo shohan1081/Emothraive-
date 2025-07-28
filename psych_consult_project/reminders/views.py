@@ -1,3 +1,4 @@
+from django.db import transaction
 from rest_framework import viewsets, status
 from rest_framework.response import Response
 from .models import Reminder
@@ -55,7 +56,7 @@ class ReminderViewSet(viewsets.ModelViewSet):
         except pytz.UnknownTimeZoneError:
             tz_name = 'UTC'
         reminder = serializer.save(user=self.request.user, timezone=tz_name)
-        self._schedule_reminder_task(reminder)
+        transaction.on_commit(lambda: self._schedule_reminder_task(reminder))
 
     def perform_update(self, serializer):
         reminder = serializer.save()

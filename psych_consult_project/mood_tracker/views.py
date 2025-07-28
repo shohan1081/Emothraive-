@@ -5,8 +5,8 @@ from rest_framework.views import APIView
 from django.db.models import Count
 from django.db.models.functions import TruncDate
 from django.utils import timezone
-from django.utils.timezone import localdate
-from datetime import timedelta
+from django.utils.timezone import localdate # Keep for reference, but won't be used for entry date
+from datetime import timedelta, datetime # Import datetime
 
 from .models import MoodEntry
 from .serializers import MoodEntrySerializer, MoodSummarySerializer
@@ -19,14 +19,31 @@ class MoodEntryListCreate(generics.ListCreateAPIView):
         return MoodEntry.objects.filter(user=self.request.user)
 
     def perform_create(self, serializer):
-        # Enforce daily limit at the view level as well for better error handling
-        today = localdate()
-        if MoodEntry.objects.filter(user=self.request.user, date=today).exists():
+        # Get the local date from the 'x-local-time' header
+        local_date_str = self.request.headers.get('x-local-time')
+        if not local_date_str:
             return Response(
-                {"message": "You can only add one mood entry per day."},
+                {"message": "x-local-time header is missing."},
                 status=status.HTTP_400_BAD_REQUEST
             )
-        serializer.save(user=self.request.user, date=today)
+        
+        try:
+            # Assuming format is DD/MM/YYYY
+            user_local_date = datetime.strptime(local_date_str, '%d/%m/%Y').date()
+        except ValueError:
+            return Response(
+                {"message": "Invalid x-local-time format. Expected DD/MM/YYYY."},
+                status=status.HTTP_400_BAD_REQUEST
+            )
+
+        # Enforce daily limit using the user's local date
+        if MoodEntry.objects.filter(user=self.request.user, date=user_local_date).exists():
+            return Response(
+                {"message": f"You have already added a mood entry for {user_local_date.strftime('%Y-%m-%d')}."},
+                status=status.HTTP_400_BAD_REQUEST
+            )
+        
+        serializer.save(user=self.request.user, date=user_local_date)
 
 class MoodEntryDetail(generics.RetrieveAPIView):
     serializer_class = MoodEntrySerializer
@@ -45,7 +62,17 @@ class MoodSummaryView(APIView):
         except ValueError:
             return Response({"message": "'days' parameter must be an integer."}, status=status.HTTP_400_BAD_REQUEST)
 
-        end_date = timezone.now().date()
+        # Get the local date from the 'x-local-time' header for summary calculation
+        local_date_str = request.headers.get('x-local-time')
+        if not local_date_str:
+            # Fallback to server's local date if header is missing
+            end_date = timezone.now().date()
+        else:
+            try:
+                end_date = datetime.strptime(local_date_str, '%d/%m/%Y').date()
+            except ValueError:
+                # Fallback to server's local date if format is invalid
+                end_date = timezone.now().date()
         start_date = end_date - timedelta(days=days - 1)
 
         mood_entries = MoodEntry.objects.filter(

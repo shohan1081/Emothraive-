@@ -9,8 +9,8 @@ class MoodEntry(models.Model):
         ('happy', 'Happy'),
         ('sad', 'Sad'),
         ('neutral', 'Neutral'),
-        ('Angry', 'Angry'),
-        ('Anxious', 'Anxious'),
+        ('angry', 'Angry'),
+        ('anxious', 'Anxious'),
         # Add more mood choices as needed
     ]
 

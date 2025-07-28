@@ -20,7 +20,7 @@ class ChatView(APIView):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-        self.pdf_store = PDFVectorStore(folder_path=settings.PDF_FOLDER_PATH)
+        self.pdf_store = PDFVectorStore(folder_path=settings.PDF_FOLDER_PATH, vector_store_path=os.path.join(settings.BASE_DIR, 'vector_store'))
         self.prompt_manager = PromptManager(
             default_therapy_type=TherapyType.GENERAL,
             conversation_style=ConversationStyle.EMPATHETIC

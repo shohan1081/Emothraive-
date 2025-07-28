@@ -227,6 +227,7 @@ class GoogleLoginView(SocialLoginView):
 def logout_view(request):
     try:
         refresh_token = request.data.get('refresh_token')
+    
         if refresh_token:
             token = RefreshToken(refresh_token)
             token.blacklist()
