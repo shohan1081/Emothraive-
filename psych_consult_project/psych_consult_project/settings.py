@@ -7,21 +7,9 @@ from dotenv import load_dotenv
 BASE_DIR = Path(__file__).resolve().parent.parent
 load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent / '.env')
 
-
-#load_dotenv(dotenv_path=BASE_DIR / 'psych_consult_project' / '.env')
-
+# Default values for development
 SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-dhnm07q-pj8-c*&m2m!q71xfw)x=jbr7warzq@3vy=(*ynbl^r')
 DEBUG = os.environ.get('DEBUG', 'True') == 'True'
-
-# ALLOWED_HOSTS = [
-#     'localhost',
-#     'localhost:8000',
-#     'localhost:3000',
-#     '127.0.0.1',
-#     '10.10.12.53',
-#     '10.10.12.62',
-#     #'stirring-camel-exotic.ngrok-free.app',
-# ]
 
 ALLOWED_HOSTS = ['*']
 
@@ -55,6 +43,7 @@ INSTALLED_APPS = [
     'tasks',
     'therapy',
     'mood_tracker',
+    'site_settings.apps.SiteSettingsConfig',
 ]
 
 MIDDLEWARE = [
@@ -246,13 +235,6 @@ CORS_ALLOW_HEADERS = [
     'x-timezone',
     'x-local-time',
 ]
-# CORS_ALLOWED_ORIGINS = [
-#     'http://localhost:3000',
-#     'http://localhost:8000',
-#     'http://10.10.12.62:3000',
-#     "http://10.10.12.53:8000", 
-#     #'https://stirring-camel-exotic.ngrok-free.app',
-# ]
 
 # Frontend URL
 FRONTEND_URL = 'http://10.10.12.62:3000'
@@ -274,11 +256,12 @@ CELERY_BEAT_SCHEDULE = {
     },
 }
 
-# Stripe Configuration
+# Stripe, Google, OpenAI API Keys
 STRIPE_PUBLIC_KEY = os.environ.get('STRIPE_PUBLIC_KEY')
 STRIPE_SECRET_KEY = os.environ.get('STRIPE_SECRET_KEY')
 STRIPE_WEBHOOK_SECRET = os.environ.get('STRIPE_WEBHOOK_SECRET', '')
-
-# Therapy App Settings
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+GOOGLE_OAUTH2_CLIENT_ID = os.environ.get('GOOGLE_OAUTH2_CLIENT_ID')
+GOOGLE_OAUTH2_CLIENT_SECRET = os.environ.get('GOOGLE_OAUTH2_CLIENT_SECRET')
+
 PDF_FOLDER_PATH = BASE_DIR / "therapy" / "pdf"

@@ -7,9 +7,14 @@ class SubscriptionPlanSerializer(serializers.ModelSerializer):
         fields = '__all__'
 
 class UserSubscriptionSerializer(serializers.ModelSerializer):
+    plan_name = serializers.SerializerMethodField()
+
     class Meta:
         model = UserSubscription
         fields = '__all__'
+
+    def get_plan_name(self, obj):
+        return obj.plan.name
 
 class CreateUserSubscriptionSerializer(serializers.ModelSerializer):
     plan_id = serializers.PrimaryKeyRelatedField(queryset=SubscriptionPlan.objects.all(), source='plan')

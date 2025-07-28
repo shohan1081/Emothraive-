@@ -14,7 +14,6 @@ from django.contrib.auth import get_user_model
 from django.views.decorators.csrf import csrf_exempt
 from django.http import HttpResponse
 
-stripe.api_key = settings.STRIPE_SECRET_KEY
 logger = logging.getLogger(__name__)
 
 class SubscriptionPlanViewSet(viewsets.ModelViewSet):
@@ -32,9 +31,17 @@ class UserSubscriptionViewSet(viewsets.ModelViewSet):
             return self.queryset.none()
         return self.queryset.filter(user=self.request.user)
 
+    def list(self, request, *args, **kwargs):
+        queryset = self.get_queryset()
+        if not queryset.exists():
+            return Response({"message": "You do not have any active subscriptions."})
+        serializer = self.get_serializer(queryset, many=True)
+        return Response(serializer.data)
+
 class CreateCheckoutSessionView(APIView):
     permission_classes = [IsAuthenticated]
     def post(self, request):
+        stripe.api_key = settings.STRIPE_SECRET_KEY
         plan_id = request.data.get('plan_id')
         if not plan_id:
             logger.error("No plan_id provided in checkout session request")

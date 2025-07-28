@@ -22,7 +22,7 @@ from .serializers import (
     UserRegistrationSerializer,
     UserLoginSerializer,
     UserProfileSerializer,
-    UserProfileUpdateSerializer,
+    UserProfileUpdateSerializer, # Updated Serializer
     PasswordResetSerializer,
     PasswordResetConfirmSerializer
 )
@@ -125,21 +125,24 @@ class UserLoginView(TokenObtainPairView):
     patch=extend_schema(tags=["User Profile"])
 )
 class UserProfileView(generics.RetrieveUpdateAPIView):
-    serializer_class = UserProfileSerializer
     permission_classes = [permissions.IsAuthenticated]
     
     def get_object(self):
         return self.request.user
-    
+
     def get_serializer_class(self):
-        if self.request.method in ['PUT', 'PATCH']:
-            return UserProfileUpdateSerializer
-        return UserProfileSerializer
-    
+        if self.request.method == 'GET':
+            return UserProfileSerializer
+        return UserProfileUpdateSerializer
+
     def update(self, request, *args, **kwargs):
-        response = super().update(request, *args, **kwargs)
-        response.data['message'] = 'Profile updated successfully'
-        return response
+        partial = kwargs.pop('partial', False)
+        instance = self.get_object()
+        serializer = self.get_serializer(instance, data=request.data, partial=partial)
+        serializer.is_valid(raise_exception=True)
+        self.perform_update(serializer)
+
+        return Response({"message": "Profile updated successfully"}, status=status.HTTP_200_OK)
 
 @extend_schema(tags=["Password Management"])
 class PasswordResetView(APIView):
