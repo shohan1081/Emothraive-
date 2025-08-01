@@ -8,10 +8,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent / '.env')
 
 # Default values for development
-SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-dhnm07q-pj8-c*&m2m!q71xfw)x=jbr7warzq@3vy=(*ynbl^r')
-DEBUG = os.environ.get('DEBUG', 'True') == 'True'
+SECRET_KEY = os.environ.get('SECRET_KEY')
+DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['emothrive.net', 'www.emothrive.net']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -128,11 +128,11 @@ WSGI_APPLICATION = 'psych_consult_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'psych_consult_db',
-        'USER': 'psych_consult_user',
-        'PASSWORD': 'admin@1234',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'NAME': os.environ.get('DB_NAME'),
+        'USER': os.environ.get('DB_USER'),
+        'PASSWORD': os.environ.get('DB_PASSWORD'),
+        'HOST': os.environ.get('DB_HOST'),
+        'PORT': os.environ.get('DB_PORT'),
     }
 }
 
@@ -221,7 +221,10 @@ EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
 DEFAULT_FROM_EMAIL = os.environ.get('EMAIL_HOST_USER')
 
 # CORS settings
-CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_ALL_ORIGINS = False
+CORS_ALLOWED_ORIGINS = [
+    'https://emothrive-online.com',
+]
 CORS_ALLOW_HEADERS = [
     'accept',
     'accept-encoding',
@@ -237,7 +240,7 @@ CORS_ALLOW_HEADERS = [
 ]
 
 # Frontend URL
-FRONTEND_URL = 'http://10.10.12.62:3000'
+FRONTEND_URL = 'https://emothrive-online.com'
 
 
 # Celery Configuration
