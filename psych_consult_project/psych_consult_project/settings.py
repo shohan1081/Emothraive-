@@ -11,7 +11,7 @@ load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent / '.env')
 SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = False
 
-ALLOWED_HOSTS = ['emothrive.net', 'www.emothrive.net']
+ALLOWED_HOSTS = ['*','emothrive.net', 'www.emothrive.net']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -221,10 +221,11 @@ EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
 DEFAULT_FROM_EMAIL = os.environ.get('EMAIL_HOST_USER')
 
 # CORS settings
-CORS_ALLOW_ALL_ORIGINS = False
+CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
-    'https://emothrive-online.com',
+    'https://emothrive.net','http://165.140.156.242:3000',
 ]
+CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_HEADERS = [
     'accept',
     'accept-encoding',
@@ -240,7 +241,7 @@ CORS_ALLOW_HEADERS = [
 ]
 
 # Frontend URL
-FRONTEND_URL = 'https://emothrive-online.com'
+FRONTEND_URL = 'https://emothrive.net'
 
 
 # Celery Configuration
@@ -268,3 +269,4 @@ GOOGLE_OAUTH2_CLIENT_ID = os.environ.get('GOOGLE_OAUTH2_CLIENT_ID')
 GOOGLE_OAUTH2_CLIENT_SECRET = os.environ.get('GOOGLE_OAUTH2_CLIENT_SECRET')
 
 PDF_FOLDER_PATH = BASE_DIR / "therapy" / "pdf"
+

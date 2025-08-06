@@ -9,7 +9,7 @@ from drf_spectacular.views import SpectacularAPIView, SpectacularRedocView, Spec
 urlpatterns = [
     path("", lambda request: JsonResponse({"message": "Psych Consult API is live!"})),
     path('admin/', admin.site.urls),
-    path('users/', include('users.urls', namespace='users')),
+    path('api/users/', include('users.urls', namespace='users')),
     # path('accounts/', include('allauth.urls')),  # Commented out to avoid conflict
     path('api/subscriptions/', include('subscriptions.urls', namespace='subscriptions')),
     path('api/workbook/', include('workbook.urls', namespace='workbook')),
@@ -18,11 +18,12 @@ urlpatterns = [
     path('api/tasks/', include('tasks.urls', namespace='tasks')),
     path('api/therapy/', include('therapy.urls', namespace='therapy')),
     path('api/mood-tracker/', include('mood_tracker.urls', namespace='mood_tracker')),
-    
-    if settings.DEBUG:
+    ]
+if settings.DEBUG:
     urlpatterns += [
         path('api/schema/', SpectacularAPIView.as_view(), name='schema'),
         path('api/schema/swagger-ui/', SpectacularSwaggerView.as_view(url_name='schema'), name='swagger-ui'),
         path('api/schema/redoc/', SpectacularRedocView.as_view(url_name='schema'), name='redoc'),
     ]
-] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

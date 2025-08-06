@@ -8,8 +8,9 @@ class SiteSettingsConfig(AppConfig):
 
     def ready(self):
         # Import SiteSetting model here to avoid AppRegistryNotReady error
-        from .models import SiteSetting
+        #from .models import SiteSetting
         
         # Load settings from database into Django settings
-        for setting in SiteSetting.objects.all():
-            setattr(settings, setting.name, setting.value)
+        #for setting in SiteSetting.objects.all():
+            #setattr(settings, setting.name, setting.value)
+         pass
